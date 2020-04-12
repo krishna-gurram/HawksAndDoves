@@ -2,4 +2,6 @@
 SER 574 Assignment
 
 ### To run the game
-> Navigate to the `Build` folder and execute `HwkDove.exe` file
+> Clone or Download zip the project 
+> Open in Unity editor
+> Hit the Play button (Sample Scene should be loaded automatically).
